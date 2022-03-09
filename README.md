@@ -1,5 +1,5 @@
 # DNN-from-scratch
-Simple Cat-Non-Cat binary image classifier without using machine learning APIs.
+Simple Cat-Non-Cat binary image classifier from scratch.
 
 # Notes:
 * For the first time you need to train a NN using **DNNTrain.py**.
